@@ -17,4 +17,4 @@ A content-based filtering recommendation system that suggests anime based on sim
 - Streamlit
 
 ## Live Demo
-[Link to your deployed app]
+[https://anime-recommendation-system-cvfq44pdjtbw5ahbxcdfae.streamlit.app/]
